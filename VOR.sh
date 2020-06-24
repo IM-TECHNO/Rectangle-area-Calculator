@@ -17,7 +17,7 @@ echo -e "\e[44m\e[31m\e[1m Volume of the Rectangle\e[0m"
 echo ""
 echo " Enter the length :"
 read l
-echo " Enter Your breadth :"
+echo " Enter the breadth :"
 read b
 echo " Enter the Height :"
 read h
